@@ -21,3 +21,4 @@ cashier_core/.idea/*
 bin/
 gen/
 .idea
+.iml
